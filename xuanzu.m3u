@@ -5,6 +5,8 @@ https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
 
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="kids_station",Kids Station (Luongz)
+https://zhenix-px.netgenx.site/live_secure/luongz/master_playlist/nl+kids_station
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="mnet",Mnet
 https://zhenix-px.netgenx.site/live_secure/luongz/master_playlist/nl+mnet
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="music_on_tv",Music ON TV
