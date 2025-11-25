@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://localhost:9000/epg/tv_epg.xml?region=jp_1,http://localhost:9000/epg/tv_epg.xml?region=jp_2" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://zhx-player.netgenx.site/novid/hls/radio_stream.m3u8
