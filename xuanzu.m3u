@@ -1,18 +1,14 @@
-#EXTM3U url-tvg="https://node3.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://node3.shinori.my.id/epg/tv_epg.xml?region=jp_3,https://node2.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://tv-schedule.netgenx.site/epg_data.xml" tvg-shift=0 m3uautoload=1
-
-# Server Info
-# Node 1 (DE) - Dead
-# Node 2 (SG) 1Gbps
-# Node 3 (JP) 200Mbps
+#EXTM3U url-tvg="https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://node3.shinori.my.id/epg/tv_epg.xml?region=jp_3,https://node2.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://tv-schedule.netgenx.site/epg_data.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
 https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 
-# Radio Stream
-#EXTINF:-1 group-title="Radio" tvg-logo="https://gitflic.ru/upload/-/user/8fab2750-a100-4fc1-b19d-7e32a9c1a683/avatar/c2ac6b93-88ab-4734-9dfb-2fbf31519605.jpg",NGX Radio
-https://radio-next.netgenx.site/hls/ngx_radio/live.m3u8
+# Server Info
+# Node 1 (SG) 10Gbps
+# Node 2 (SG) 1Gbps
+# Node 3 (JP) 200Mbps
 
 # Test Channel
 # (SEA)
@@ -125,195 +121,195 @@ https://node2.shinori.my.id/live_stream/naori/master_playlist/107
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="mtv",MTV (HD)
 https://node2.shinori.my.id/live_stream/naori/master_playlist/74
 
-# Server 01 (DE) 300 Mbps - 1 Gbps
+# Server 01 (SG) 1 - 5 Gbps
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="green_channel",Green Channel (HD)
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+green
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+green
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="the_cinema",The Cinema
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+the_cinema
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+the_cinema
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="kids_station",Kids Station (Luongz)
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+kids_station
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+kids_station
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="music_on_tv",Music ON TV
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+musicon
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+musicon
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs11",BS11 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+BS11
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tokyo_mx2",TOKYO MX2 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+Tokyo_MX2
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+Tokyo_MX2
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="at_x",AT-X 
 https://xuanzi-storage.netgenx.site/linxei_hls_at-x/stream_at-x.m3u8
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="kbs",KBS
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+kbs
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+kbs
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tbs_channel_1",TBS Channel 1 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch1
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch1
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tbs_channel_2",TBS Channel 2 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch2
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+tbsch2
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tv_asahi_channel_1",TV Asahi Channel 1 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch1
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch1
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tv_asahi_channel_2",TV Asahi Channel 2 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch2
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+ex_ch2
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="fuji_tv_one",Fuji TV ONE 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+fuji_one
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+fuji_one
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="fuji_tv_two",Fuji TV TWO 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+fuji_two
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+fuji_two
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="sports_live_plus",Sport Live Plus 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+sport_live_plus
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+sport_live_plus
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="fighting_tv_samurai",Fighting TV Samurai 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+fighting_tv
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+fighting_tv
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="home_drama",Home Drama Channel 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+homedrama
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+homedrama
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="nhk_g_tokyo",NHK G HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd01
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="nhk_e_tokyo",NHK E HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd02
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd02
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="ntv",NTV HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd03
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd03
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tbs",TBS HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd04
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd04
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="fuji_tv",Fuji TV HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd05
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd05
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tv_asahi",TV Asahi HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd06
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd06
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tv_tokyo",TV Tokyo HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd07
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd07
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tokyo_mx1",TOKYO MX1 HD
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd08
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/hdgd08
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="nhk_g_tokyo",NHK G
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd01
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="nhk_e_tokyo",NHK E
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd02
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd02
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="ntv",NTV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd03
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd03
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tbs",TBS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd04
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd04
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="fuji_tv",Fuji TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd05
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd05
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tv_asahi",TV Asahi
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd06
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd06
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tv_tokyo",TV Tokyo
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd07
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd07
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tokyo_mx1",TOKYO MX1
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gd08
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gd08
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="nhk_g_osaka",NHK G Osaka
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx06
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx06
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="mbs",MBS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx01
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="abc",ABC
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx02
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx02
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="kansai_tv",Kansai TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx03
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx03
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="ytv",ytv
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx04
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx04
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="tv_osaka",TV Osaka
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx05
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx05
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="sun_tv",SUN
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/gx07
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/gx07
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="nhk_bs",NHK BS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs11
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs11
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs_ntv",BS NTV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs02
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs02
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs_asahi",BS Asahi
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs03
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs03
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs_tbs",BS TBS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs04
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs04
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs_tv_tokyo",BS TV Tokyo
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs05
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs05
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs_fuji",BS Fuji
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs06
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs06
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="nhk_bsp_4k",NHK BS4K
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs01
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="wowow_prime",WOWOW Prime
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs12
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs12
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="wowow_cinema",WOWOW Cinema
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs07
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs07
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="wowow_live",WOWOW Live
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs20
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs20
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="bs10_star_channel",BS 10 Star Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs08
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs08
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="js1",JSport 1
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs18
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs18
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="js2",JSport 2
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs19
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs19
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="js3",JSport 3
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs21
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs21
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="js4",JSport 4
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs22
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs22
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="green_channel",Green Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs14
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs14
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="animax",Animax
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs15
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs15
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="nihon_eiga",Nihon Eiga Senmon
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs23
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs23
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="sky_a",Sky A
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="fishing_vision", Fishing Vision
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs25
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs25
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="disney_channel", Disney Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs24
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs24
 #EXTINF:-1 group-title="BS | DE 01" tvg-id="jcom_bs", JCOM BS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs31
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs31
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="jidaigeki", Jidaigeki Senmon
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs04
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs04
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="toei_channel", Toei Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs27
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs27
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="eisei_gekijo", Eisei Gekijo
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs22
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs22
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="family_gekijo", Family Gekijyo
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs20
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs20
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="movie_plus", Movie Plus
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs14
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs14
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="home_drama", Home Drama Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs05
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs05
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tabi_channel", Tabi Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs12
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs12
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="fuji_tv_next", Fuji TV Next
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs26
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs26
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="sky_a", Sky A
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs01
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="gaora", GAORA SPORTS
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs17
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs17
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="golf_network", Golf Network
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs03
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs03
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="ntv_g_tasu", Nittele G+
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs02
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs02
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="mondo_tv", Mondo TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs21
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs21
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="channel_ginga", Channel Ginga
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs29
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs29
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="space_shower_tv", Space Shower TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/bs26
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/bs26
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="music_japan_tv", Music Japan TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs06
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs06
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="kayo_pops", Kayo Pops
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs13
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs13
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="mtv", MTV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs18
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs18
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="lala_tv", LaLa TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs19
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs19
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="sky_stage", Takarazuka Sky Stage
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs28
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs28
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="kids_station", Kids Staton TV
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs07
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs07
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="cartoon_network", Cartoon Network
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs25
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs25
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="national_geographic", National Geographic Japan
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs10
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs10
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="disney_junior", Disney Junior
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs23
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs23
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="discovery_channel", Discovery Channel
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs08
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs08
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="animal_planet", Animal Planet
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs24
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs24
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="history_channel", History
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs09
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs09
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="cnn_j", CNNj
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs16
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="bbc_news", BBC News
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs15
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tbs_news", TBS News
-https://node3.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
+https://node1.shinori.my.id/live_stream/zhenxen/master_playlist/cs11
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="pigoo",Pigoo (NSFW) 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+pigoo
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+pigoo
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="v_paradise",V Paradise (NSFW) 
-https://node3.shinori.my.id/live_stream/luongz/master_playlist/nl+v_paradise
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+v_paradise
 
 # Server 02 (SG) 1Gbps
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="kids_station",Kids Station (Luongz | Server 02)
