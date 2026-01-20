@@ -23,41 +23,41 @@ https://zhenix.shinori.my.id/stream/master_stream/f0c49a3b-833a-4827-8102-1bb402
 
 # (Korea | KR)
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="연합뉴스TV.kr",Yonhap News TV (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/yonhap
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/yonhap
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="CTS기독교TV.kr",CTS (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/cts
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/cts
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="",Channel A (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/cha
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/cha
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="MBN.kr",MBN (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/mbn
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/mbn
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="TVCHOSUN2.kr",TV Chosun (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/chosun
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/chosun
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="Mnet.kr",Mnet (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/mnet
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/mnet
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="tvN.kr",TVN (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/tvn
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/tvn
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="KBS1.kr",KBS 1 (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/kbs1
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/kbs1
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="KBS2.kr",KBS 2 (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/kbs2
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/kbs2
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="SBS.kr",SBS (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/sbs
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/sbs
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="MBC.kr",MBC (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/mbc
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/mbc
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="OCN.kr",OCN (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/ocn
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/ocn
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="YTN.kr",YTN (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/ytn
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/ytn
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="",Tooniverse (KR | FHD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/tooniverse
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/tooniverse
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="JTBC.kr",JTBC (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/jtbc
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/jtbc
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="JTBC2.kr",JTBC 2 (KR | HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/jtbc2
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/jtbc2
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="SBS.Golf2.kr",SBS Golf 2 (KR | FHD/HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/sbsgolf2
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/sbsgolf2
 #EXTINF:-1 group-title="KR | SG 01 | Test" tvg-id="SBS.Golf.kr",SBS Golf (KR | FHD/HD) [test]
-https://node2.shinori.my.id/live_stream/hyper/master_playlist/sbsgolf
+https://node1.shinori.my.id/live_stream/hyper/master_playlist/sbsgolf
 
 # (JP | Roku)
 #EXTINF:-1 tvg-id="rch_47",Roku | CH 104
