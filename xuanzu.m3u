@@ -135,7 +135,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tokyo_mx2",TOKYO MX2 
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+Tokyo_MX2
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="at_x",AT-X 
-https://xuanzi-storage.netgenx.site/linxei_hls_at-x/stream_at-x.m3u8
+https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+AT-X
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="kbs",KBS
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+kbs
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tbs_channel_1",TBS Channel 1 
