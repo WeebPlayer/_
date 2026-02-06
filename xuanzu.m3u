@@ -1,14 +1,9 @@
-#EXTM3U url-tvg="https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://node3.shinori.my.id/epg/tv_epg.xml?region=jp_3,https://node2.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://tv-schedule.netgenx.site/epg_data.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_3,https://node1.shinori.my.id/epg/tv_epg.xml?region=jp_1,https://tv-schedule.netgenx.site/epg_data.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate/寄付: https://paypal.me/Tieptran1970
 https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
 https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
-
-# Server Info
-# Node 1 (SG) 10Gbps
-# Node 2 (SG) 1Gbps
-# Node 3 (JP) 200Mbps
 
 # Test Channel
 # (SEA)
@@ -101,25 +96,25 @@ https://xuanzi-storage.netgenx.site/linxei_hls_kbs-wrld/stream_kbs-wrld.m3u8
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="mnet",Mnet
 https://xuanzi-storage.netgenx.site/linxei_hls_mnet/stream_mnet.m3u8
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_ntv",BS NTV (HD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/44
+https://node1.shinori.my.id/live_stream/naori/master_playlist/44
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="music_japan_tv",Music Japan TV (HD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/156
+https://node1.shinori.my.id/live_stream/naori/master_playlist/156
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="action_channel",Action Channel (AXN)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/137
+https://node1.shinori.my.id/live_stream/naori/master_playlist/137
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="music_on_tv",Music ON TV (FHD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/131
+https://node1.shinori.my.id/live_stream/naori/master_playlist/131
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="mystery_channel",Mystery Channel
-https://node2.shinori.my.id/live_stream/naori/master_playlist/323
+https://node1.shinori.my.id/live_stream/naori/master_playlist/323
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="dance_channel",Dance Channel
-https://node2.shinori.my.id/live_stream/naori/master_playlist/140
+https://node1.shinori.my.id/live_stream/naori/master_playlist/140
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="bs12",BS 12 (FHD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/114
+https://node1.shinori.my.id/live_stream/naori/master_playlist/114
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="super_drama_tv",Super Drama TV (FHD) 
-https://node2.shinori.my.id/live_stream/naori/master_playlist/133
+https://node1.shinori.my.id/live_stream/naori/master_playlist/133
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="at_x",AT-X (FHD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/107
+https://node1.shinori.my.id/live_stream/naori/master_playlist/107
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="mtv",MTV (HD)
-https://node2.shinori.my.id/live_stream/naori/master_playlist/74
+https://node1.shinori.my.id/live_stream/naori/master_playlist/74
 
 # Server 01 (SG) 1 - 5 Gbps
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="green_channel",Green Channel (HD)
@@ -135,7 +130,7 @@ https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+BS11
 #EXTINF:-1 group-title="Tokyo | DE 01" tvg-id="tokyo_mx2",TOKYO MX2 
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+Tokyo_MX2
 #EXTINF:-1 group-title="CS | SG 01" tvg-id="at_x",AT-X 
-https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+AT-X
+https://xuanzi-storage.netgenx.site/linxei_hls_at-x/stream_at-x.m3u8
 #EXTINF:-1 group-title="Kansai | DE 01" tvg-id="kbs",KBS
 https://node1.shinori.my.id/live_stream/luongz/master_playlist/nl+kbs
 #EXTINF:-1 group-title="CS | DE 01" tvg-id="tbs_channel_1",TBS Channel 1 
