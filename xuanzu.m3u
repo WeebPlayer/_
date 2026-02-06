@@ -5,6 +5,7 @@ https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 #EXTINF:-1 group-title="Information" tvg-logo="",This is a relay playlist
 https://xuanzi-storage.netgenx.site/novid/hls/radio_stream.m3u8
 
+
 # Test Channel
 # (SEA)
 #EXTINF:-1 group-title="ID | SG 01" tvg-id="Aniplus",Aniplus (ID | HD)
@@ -91,9 +92,9 @@ https://node3.shinori.my.id/stream/master_stream/69562915-a8c8-40c2-b548-b55cd0f
 https://node3.shinori.my.id/stream/master_stream/42118e6f-ebac-47cf-88de-ab82908f0d7f/stream.m3u8
 
 # (JP)
-#EXTINF:-1 group-title="CS | SG 01" tvg-id="kbs_world",KBS World
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="KBS-WORLD_jp",KBS World
 https://xuanzi-storage.netgenx.site/linxei_hls_kbs-wrld/stream_kbs-wrld.m3u8
-#EXTINF:-1 group-title="CS | SG 01" tvg-id="mnet",Mnet
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="Mnet_jp",Mnet
 https://xuanzi-storage.netgenx.site/linxei_hls_mnet/stream_mnet.m3u8
 #EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_ntv",BS NTV (HD)
 https://node1.shinori.my.id/live_stream/naori/master_playlist/44
